@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIqsYY88PHI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aio\\Downloads\\CompressionProject\\CompressionServer\\CompressionServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
